@@ -18,7 +18,7 @@
 📈 I’ve built BI dashboards, automated data workflows, and extracted insights for enterprise and academic stakeholders.
 
 - 💡 Core Skills: **Python, SQL, Tableau, Power BI, Excel**
-- 📄 [View My Resume](https://github.com/mohanakrishna3335/mohanakrishna3335/raw/main/Mohana_Krishna_Koripella_Resume.pdf)
+- 📄 [View My Resume](https://github.com/Mohanakrishna3335/MohanaKrishna3335/blob/main/Mohana_Krishna_Koripella_Resume_DataAnalyst.pdf)
 - 🌐 [Click here](https://admirable-cannoli-227a36.netlify.app/) to explore my personal portfolio and projects
 - 📬 Reach me: **krishkoripella3335@gmail.com**
 
