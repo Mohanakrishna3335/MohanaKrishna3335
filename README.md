@@ -32,7 +32,7 @@
 - Optimized SQL procedures for academic systems  
 - Customized BI for departmental analytics
 
-**💼 Data Analyst – Infosys Ltd**  
+**💼 Senior Systems Engineer -Data Analyst – Infosys Ltd**  
 📆 Jan 2021 – Nov 2022  
 - Created Power BI/Tableau dashboards for 4 departments  
 - Automated ETL workflows using SQL & Python  
